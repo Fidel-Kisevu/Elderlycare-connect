@@ -1,4 +1,4 @@
-/* General Styles */
+
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -7,7 +7,7 @@ body {
   padding: 0;
 }
 
-.container {
+.container-signup {
   max-width: 500px;
   margin: 50px auto;
   background-color: #fff;

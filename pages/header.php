@@ -15,8 +15,8 @@
         <nav>
             <ul>
                 <li><a href="homepage.php">Home</a></li>
-                <li><a href="logout.php">Donate</a></li>
-                <li><a href="create_profile.php">Create Profile</a></li>
+                <li><a href="../includes/donation.php">Donate</a></li>
+                <li><a href="createprofile.php">Create Profile</a></li>
                 
                 <li><a href="logout.php">Logout</a></li>
                 <!-- Add more navigation links as needed -->

@@ -35,7 +35,7 @@ if (!$profile) {
 </head>
 
 <body>
-    <div class="container">
+    <div class="container-profile">
         <h1><?php echo $profile['name']; ?></h1>
         <div class="profile">
             <?php
